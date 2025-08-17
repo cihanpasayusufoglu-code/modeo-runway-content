@@ -1,0 +1,43 @@
+name: Build & Publish Runway Index
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build index.json
+        env:
+          GH_PAGES_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          python - <<'PY'
+          import sys, subprocess, os
+          subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"])
+          # Script'in var olduğundan emin ol
+          if not os.path.exists("tools/runway_pack_to_json.py"):
+              raise SystemExit("tools/runway_pack_to_json.py bulunamadı.")
+          # Çalıştır
+          subprocess.check_call([sys.executable, "tools/runway_pack_to_json.py"])
+          PY
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: .
+          enable_jekyll: false
