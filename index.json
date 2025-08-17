@@ -1,6 +1,297 @@
 {
   "collections": [
     {
+      "id": "alexander-mcqueen-ss25",
+      "brand": "Alexander McQueen",
+      "season": "SS25",
+      "title": "Alexander McQueen SS25",
+      "editorial": "",
+      "looks": [
+        {
+          "id": "alexander-mcqueen-ss25-1",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_001.jpg",
+          "index": 1,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-2",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_002.jpg",
+          "index": 2,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-3",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_003.jpg",
+          "index": 3,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-4",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_004.jpg",
+          "index": 4,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-5",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_005.jpg",
+          "index": 5,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-6",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_006.jpg",
+          "index": 6,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-7",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_007.jpg",
+          "index": 7,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-8",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_008.jpg",
+          "index": 8,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-9",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_009.jpg",
+          "index": 9,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-10",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_010.jpg",
+          "index": 10,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-11",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_011.jpg",
+          "index": 11,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-12",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_012.jpg",
+          "index": 12,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-13",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_013.jpg",
+          "index": 13,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-14",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_014.jpg",
+          "index": 14,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-15",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_015.jpg",
+          "index": 15,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-16",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_016.jpg",
+          "index": 16,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-17",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_017.jpg",
+          "index": 17,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-18",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_018.jpg",
+          "index": 18,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-19",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_019.jpg",
+          "index": 19,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-20",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_020.jpg",
+          "index": 20,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-21",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_021.jpg",
+          "index": 21,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-22",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_022.jpg",
+          "index": 22,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-23",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_023.jpg",
+          "index": 23,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-24",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_024.jpg",
+          "index": 24,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-25",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_025.jpg",
+          "index": 25,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-26",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_026.jpg",
+          "index": 26,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-27",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_027.jpg",
+          "index": 27,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-28",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_028.jpg",
+          "index": 28,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-29",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_029.jpg",
+          "index": 29,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-30",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_030.jpg",
+          "index": 30,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-31",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_031.jpg",
+          "index": 31,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-32",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_032.jpg",
+          "index": 32,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-33",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_033.jpg",
+          "index": 33,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-34",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_034.jpg",
+          "index": 34,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-35",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_035.jpg",
+          "index": 35,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-36",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_036.jpg",
+          "index": 36,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-37",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_037.jpg",
+          "index": 37,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-38",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_038.jpg",
+          "index": 38,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-39",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_039.jpg",
+          "index": 39,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-40",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_040.jpg",
+          "index": 40,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-41",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_041.jpg",
+          "index": 41,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-42",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_042.jpg",
+          "index": 42,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-43",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_043.jpg",
+          "index": 43,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-44",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_044.jpg",
+          "index": 44,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-45",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_045.jpg",
+          "index": 45,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-46",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_046.jpg",
+          "index": 46,
+          "tags": []
+        },
+        {
+          "id": "alexander-mcqueen-ss25-47",
+          "imageUrl": "https://cihanpasayusufoglu-code.github.io/modeo-runway-content/runway/Alexander McQueen/SS25/look_047.jpg",
+          "index": 47,
+          "tags": []
+        }
+      ]
+    },
+    {
       "id": "dior-ss25",
       "brand": "Dior",
       "season": "SS25",
